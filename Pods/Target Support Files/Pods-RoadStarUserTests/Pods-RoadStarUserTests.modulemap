@@ -1,0 +1,6 @@
+framework module Pods_RoadStarUserTests {
+  umbrella header "Pods-RoadStarUserTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

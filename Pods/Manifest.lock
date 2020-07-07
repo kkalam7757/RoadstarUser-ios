@@ -1,0 +1,77 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DatePickerDialog (3.0)
+  - FBSDKCoreKit (6.5.2):
+    - FBSDKCoreKit/Basics (= 6.5.2)
+    - FBSDKCoreKit/Core (= 6.5.2)
+  - FBSDKCoreKit/Basics (6.5.2)
+  - FBSDKCoreKit/Core (6.5.2):
+    - FBSDKCoreKit/Basics
+  - FBSDKLoginKit (6.5.2):
+    - FBSDKLoginKit/Login (= 6.5.2)
+  - FBSDKLoginKit/Login (6.5.2):
+    - FBSDKCoreKit (~> 6.5.2)
+  - GoogleMaps (3.8.0):
+    - GoogleMaps/Maps (= 3.8.0)
+  - GoogleMaps/Base (3.8.0)
+  - GoogleMaps/Maps (3.8.0):
+    - GoogleMaps/Base
+  - GooglePlaces (3.8.0):
+    - GoogleMaps/Base (= 3.8.0)
+  - GrowingTextView (0.6.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+  - SkyFloatingLabelTextField (3.8.0)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - DatePickerDialog
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - GoogleMaps
+  - GooglePlaces
+  - GrowingTextView (= 0.6.1)
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SkyFloatingLabelTextField (~> 3.0)
+  - ViewAnimator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DatePickerDialog
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - GoogleMaps
+    - GooglePlaces
+    - GrowingTextView
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DatePickerDialog: 03dbb8350bfa80302ab2a8c83cee1fec70184444
+  FBSDKCoreKit: ada5c8a05188daefc9addb985c52b8a1b26da519
+  FBSDKLoginKit: caa165495afa29a12324cb2307fe6e5b33783142
+  GoogleMaps: 7c8d66d70e4e8c300f43a7219d8fdaad7b325a9a
+  GooglePlaces: d5f70c3e9e427964fdeca1301a665d276ccd8754
+  GrowingTextView: 335aefa45df7df06b01edede1363414d6ee5d6bc
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: 0778aec9f79aaf622450acf6513316b0f50f775e
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_RoadStarUser_RoadStarUserUITests {
+  umbrella header "Pods-RoadStarUser-RoadStarUserUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
